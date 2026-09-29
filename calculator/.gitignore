@@ -1,0 +1,9 @@
+calculator
+*.exe
+*.out
+*.o
+*.obj
+*.tmp
+*~
+.vscode/
+.idea/
